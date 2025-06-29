@@ -1,3 +1,4 @@
+<!-- Module 1: Registration -->
 <?php
 // Connect to DB
 $conn = new mysqli('localhost', 'root', '', 'bookstore');
